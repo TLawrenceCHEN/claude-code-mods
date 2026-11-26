@@ -1,0 +1,8 @@
+{
+  "name": "my-mods",
+  "owner": { "name": "TLawrenceCHEN" },
+  "plugins": [
+    { "name": "pixel-snow", "source": "./pixel-snow" },
+    { "name": "firefly-meadow", "source": "./firefly-meadow" }
+  ]
+}
